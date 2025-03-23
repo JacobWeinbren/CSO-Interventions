@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Outputs/flow_direction.tif filter=lfs diff=lfs merge=lfs -text
+Inputs/oprvrs_essh_gb[[:space:]](1)/data/WatercourseLink.dbf filter=lfs diff=lfs merge=lfs -text
