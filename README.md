@@ -33,8 +33,8 @@ This repo contains GIS analysis inputs and outputs, identifying spots for Nature
 2. **Flow Direction + Flow Distance**  
    Analysis of water flow paths with red circles marking suggested intervention sites.
 
-3. **Flow Direction + Flow Distance (Another View)**  
-   Same analysis from a different angle, highlighting potential intervention points.
+3. **Flow Direction + Flow Distance 
+   Same analysis from a different angle, without coverage of intervention sites.
 
 4. **Flow Direction**  
    Visualisation showing which way water flows over the terrain.
@@ -42,7 +42,7 @@ This repo contains GIS analysis inputs and outputs, identifying spots for Nature
 5. **TWI + Flow Distance Intervention Areas**  
    Topographic Wetness Index combined with flow analysis. The grey areas show where we think interventions would work best.
 
-6. **TWI + Flow Distance Intervention Areas (Another Angle)**  
+6. **TWI + Flow Distance Intervention Areas (Another Location)**  
    Another view of our proposed intervention areas.
 
 7. **Topographic Wetness Index (TWI)**  
