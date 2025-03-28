@@ -6,3 +6,4 @@ Inputs/oprvrs_essh_gb[[:space:]](1)/data/WatercourseLink.dbf filter=lfs diff=lfs
 0.125/flow_direction.tif filter=lfs diff=lfs merge=lfs -text
 1/flow_direction.tif filter=lfs diff=lfs merge=lfs -text
 0.5/flow_direction.tif filter=lfs diff=lfs merge=lfs -text
+0.4/flow_direction.tif filter=lfs diff=lfs merge=lfs -text
